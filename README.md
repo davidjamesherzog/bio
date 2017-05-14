@@ -9,30 +9,31 @@ dherzog@ptd.net
 ***
 Profile
 ---------
-An accomplished Software Engineer experienced in emerging technologies, Agile development and specializing in object-oriented design and analysis in the full software development life cycle including requirements definition, prototyping, proof of concept, design, interface implementation, testing and maintenance.  Excel in team collaboration and solution brainstorming.  Exceptionally strong sense of aesthetics and attention to detail.  Highly motivated in learning new technologies.
+An accomplished Front End and Full Stack Software Engineer experienced in emerging technologies, Agile development and specializing in object-oriented design and analysis in the full software development life cycle including requirements definition, prototyping, proof of concept, design, interface implementation, testing and maintenance.  Excel in team collaboration and solution brainstorming.  Exceptionally strong sense of aesthetics and attention to detail.  Highly motivated in learning new technologies.
 
 ***
 Technical Skills
 ---------
 
-* **Platforms**  Mac OS 10+, Windows 10/8/7, Redhat/Ubuntu Linux, Android, iSeries (AS/400)
-* **Language**  Java, Javascript, JSP, HTML5, CSS3, Ajax, SQL, SOAP and RESTful Web Services, C#, Visual Basic 6.0, RPG III and IV, ILE, CL
-* **Frameworks**  AngularJS, Ionic, Jasmine, Express.js, Bootstrap, J2EE, JDBC, JPA, Hibernate, Spring, Mockito, JMS, EJB 3, GWT/GXT, Vaadin, jQuery, Struts, Apache Axis, Wicket, AspectJ, Apache Camel
-* **Servers**	 JBoss, WebSphere, Tomcat, Jetty	
-* **RDBMS**  DB2, Oracle 11g, MySQL, MongoDB, SQLite, HSQLDB
-* **Tools**  WebStorm, Visual Source Code, IntelliJ, Slack, Git, Github, Node.js, Bower, Gulp, Grunt, SASS, Eclipse, Ant, Maven, Subversion, Jenkins/Hudson, TravisCI Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
+### **Platforms**  Mac OS 10+, Windows 10/8/7, Redhat/Ubuntu Linux, Android, iSeries (AS/400)
+### **Language**  Java, Javascript, JSP, HTML5, CSS3, Ajax, SQL, SOAP and RESTful Web Services, C#, Visual Basic 6.0, RPG III and IV, ILE, CL
+### **Frameworks**  AngularJS, Ionic, Jasmine, Express.js, Bootstrap, J2EE, JDBC, JPA, Hibernate, Spring, Mockito, JMS, EJB 3, GWT/GXT, Vaadin, jQuery, Struts, Apache Axis, Wicket, AspectJ, Apache Camel
+### **Servers**	 JBoss, WebSphere, Tomcat, Jetty	
+### **RDBMS**  DB2, Oracle 11g, MySQL, MongoDB, SQLite, HSQLDB
+### **Tools**  WebStorm, Visual Source Code, IntelliJ, Slack, Git, Github, Node.js, Bower, Gulp, Grunt, SASS, Eclipse, Ant, Maven, Subversion, Jenkins/Hudson, TravisCI Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
 
 
 ***
 Professional Experience
 ---------
 
-*   **DramaFever** (NYC, NY - Remote)
-<br>
-    **Lead Develeper, 2015-Present**
+###  **DramaFever** (NYC, NY - Remote)
+#### **Lead Develeper, 2015-Present**
 
     - Worked on different applications using AngularJS
         - [dramafever.com](http://www.dramafever.com)
+        - [boomerang.com](http://www.boomerang.com)
+        - [moodica.com](http://www.moodica.com)
         - [shudder.com](http://www.shudder.com)
         - [warnerarchive.com](http://www.warnerarchive.com)
     - Built HTML5 video player using video.js
@@ -41,16 +42,16 @@ Professional Experience
         - Supports FairPlay, Widevine and PlayReady DRM technologies
         - Supports third party integrations like Freewheel, Comscore and Youbora
     - Built reusable client library to interface with backend API
-    - Use Karma and Jasmine to write automated unit tests to attain 100% code coverage
+    - Use Karma, Jasmine and PhantomJS to write automated unit tests to attain 100% code coverage
     - Implement Gulp as main build tool and standardize build/development process across multiple projects
     - Review code via Git's PR process
     - Pair program with junior and mid level developers
+    - Use tools like Slack and Google Hangouts for remote based team
 
 ***
 
-*   **CardConnect** (King of Prussia, PA)
-<br>
-    **Software Architect, 2013-2015**
+###   **CardConnect** (King of Prussia, PA)
+####  **Software Architect, 2013-2015**
     
     - Architected and built Merchant Portal application for merchants using Spring and AngularJS.  The original application was written using Oracle APEX and PL/SQL.  The application had to be re-architected from the ground floor up to make it an enterprise strength application so that it could handle standard web traffic along with batch processing for recurring billing and emailing of daily reports.  Maven, Grunt and Bower were used to manage java and javascript dependencies, run java and javascript tests, compiling of SASS files to CSS and minifying and obfuscating javascript and CSS.
     - Architected and built SFTP application for merchants to tokenize credit cards and process credit card transactions using Spring and Apache Camel to route the data properly.
@@ -69,9 +70,8 @@ Professional Experience
 
 ***
 
-*   **hibu (Yellowbook)** (King of Prussia, PA)
-<br>
-    **Lead Developer, 2008-2013**
+###  **hibu (Yellowbook)** (King of Prussia, PA)
+#### **Lead Developer, 2008-2013**
 
     - Assisting in creating next generation sales force automation application for tablets/laptops using Wicket and Bootstrap frameworks 
     - Integrating Advertiser portal with J.P. Morgan Chase's payment site using SOAP based web services and WS-Security 
@@ -95,9 +95,8 @@ Professional Experience
 
 ***
 
-*   **Cornerstone Software** (Morgantown, PA)
-<br>
-    **Technical Lead, 2004-2008**
+###  **Cornerstone Software** (Morgantown, PA)
+#### **Technical Lead, 2004-2008**
 
     - Assisted in designing and developing software for Qualcomm’s trucking industry
     - Design and develop web pages using J2EE, Struts and Web 2.0
@@ -114,9 +113,8 @@ Professional Experience
 
 ***
 
-*   **AmerisourceBergen, Inc.** (Chesterbrook, PA)
-<br>
-    **Programmer/Analyst, 2001-2004**
+###  **AmerisourceBergen, Inc.** (Chesterbrook, PA)
+#### **Programmer/Analyst, 2001-2004**
 
     - Assisting in designing and developing software for warehouses.
     - Create web based Order Tracking system across 15+ AS/400’s
@@ -133,9 +131,8 @@ Professional Experience
 
 ***
 
-*   **Health Care Software, Inc.** (Farmingdale, NJ)
-<br>
-    **Programmer/Analyst, 1998-2001**
+###  **Health Care Software, Inc.** (Farmingdale, NJ)
+#### **Programmer/Analyst, 1998-2001**
 
     - Assisting in designing and developing software for hospitals.
     - Interact with clients to fix software defects.
@@ -151,13 +148,13 @@ Professional Experience
 Education
 ---------
 
-* **B.S., Mathematics**  
+### **B.S., Mathematics**  
   Moravian College, Bethlehem, 1998 Minor: Economics
 
 ***
 Technical Summary
 ---------
 
-Extensive experience with J2EE, Java, HTML and JavaScript to design and develop enterprise web applications.  Highly skilled in developing and building J2EE applications in Agile and TDD environments using tools like Eclipse, Maven, Jenkins, JUnit and Mockito.  
+Extensive experience with J2EE, Java, HTML and JavaScript to design and develop enterprise web applications.  Highly skilled in developing and building SPA and J2EE applications in Agile and TDD environments using tools like IntelliJ, Eclipse, Maven, Jenkins, JUnit, Mockito and Jasmine.  
 
 
