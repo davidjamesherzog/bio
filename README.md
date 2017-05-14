@@ -15,12 +15,12 @@ An accomplished Front End and Full Stack Software Engineer experienced in emergi
 Technical Skills
 ---------
 
-### **Platforms**  Mac OS 10+, Windows 10/8/7, Redhat/Ubuntu Linux, Android, iSeries (AS/400)
-### **Language**  Java, Javascript, JSP, HTML5, CSS3, Ajax, SQL, SOAP and RESTful Web Services, C#, Visual Basic 6.0, RPG III and IV, ILE, CL
-### **Frameworks**  AngularJS, Ionic, Jasmine, Express.js, Bootstrap, J2EE, JDBC, JPA, Hibernate, Spring, Mockito, JMS, EJB 3, GWT/GXT, Vaadin, jQuery, Struts, Apache Axis, Wicket, AspectJ, Apache Camel
-### **Servers**	 JBoss, WebSphere, Tomcat, Jetty	
-### **RDBMS**  DB2, Oracle 11g, MySQL, MongoDB, SQLite, HSQLDB
-### **Tools**  WebStorm, Visual Source Code, IntelliJ, Slack, Git, Github, Node.js, Bower, Gulp, Grunt, SASS, Eclipse, Ant, Maven, Subversion, Jenkins/Hudson, TravisCI Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
+* **Platforms**  Mac OS 10+, Windows 10/8/7, Redhat/Ubuntu Linux, Android, iSeries (AS/400)
+* **Language**  Java, Javascript, JSP, HTML5, CSS3, Ajax, SQL, SOAP and RESTful Web Services, C#, Visual Basic 6.0, RPG III and IV, ILE, CL
+* **Frameworks**  AngularJS, Ionic, Jasmine, Express.js, Bootstrap, J2EE, JDBC, JPA, Hibernate, Spring, Mockito, JMS, EJB 3, GWT/GXT, Vaadin, jQuery, Struts, Apache Axis, Wicket, AspectJ, Apache Camel
+* **Servers**	 JBoss, WebSphere, Tomcat, Jetty	
+* **RDBMS**  DB2, Oracle 11g, MySQL, MongoDB, SQLite, HSQLDB
+* **Tools**  WebStorm, Visual Source Code, IntelliJ, Slack, Git, Github, Node.js, Bower, Gulp, Grunt, SASS, Eclipse, Ant, Maven, Subversion, Jenkins/Hudson, TravisCI Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
 
 
 ***
@@ -30,23 +30,23 @@ Professional Experience
 ###  **DramaFever** (NYC, NY - Remote)
 #### **Lead Develeper, 2015-Present**
 
-    - Worked on different applications using AngularJS
-        - [dramafever.com](http://www.dramafever.com)
-        - [boomerang.com](http://www.boomerang.com)
-        - [moodica.com](http://www.moodica.com)
-        - [shudder.com](http://www.shudder.com)
-        - [warnerarchive.com](http://www.warnerarchive.com)
-    - Built HTML5 video player using video.js
-        - Supports video playback on web, OTT and mobile devices
-        - Supports DASH and HLS streaming playback
-        - Supports FairPlay, Widevine and PlayReady DRM technologies
-        - Supports third party integrations like Freewheel, Comscore and Youbora
-    - Built reusable client library to interface with backend API
-    - Use Karma, Jasmine and PhantomJS to write automated unit tests to attain 100% code coverage
-    - Implement Gulp as main build tool and standardize build/development process across multiple projects
-    - Review code via Git's PR process
-    - Pair program with junior and mid level developers
-    - Use tools like Slack and Google Hangouts for remote based team
+- Worked on different applications using AngularJS
+    - [dramafever.com](http://www.dramafever.com)
+    - [boomerang.com](http://www.boomerang.com)
+    - [moodica.com](http://www.moodica.com)
+    - [shudder.com](http://www.shudder.com)
+    - [warnerarchive.com](http://www.warnerarchive.com)
+- Built HTML5 video player using video.js
+    - Supports video playback on web, OTT and mobile devices
+    - Supports DASH and HLS streaming playback
+    - Supports FairPlay, Widevine and PlayReady DRM technologies
+    - Supports third party integrations like Freewheel, Comscore and Youbora
+- Built reusable client library to interface with backend API
+- Use Karma, Jasmine and PhantomJS to write automated unit tests to attain 100% code coverage
+- Implement Gulp as main build tool and standardize build/development process across multiple projects
+- Review code via Git's PR process
+- Pair program with junior and mid level developers
+- Use tools like Slack and Google Hangouts for remote based team
 
 ***
 
