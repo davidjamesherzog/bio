@@ -155,6 +155,6 @@ Education
 Technical Summary
 ---------
 
-Extensive experience with J2EE, Java, HTML and JavaScript to design and develop enterprise web applications.  Highly skilled in developing and building SPA and J2EE applications in Agile and TDD environments using tools like IntelliJ, Eclipse, Maven, Jenkins, JUnit, Mockito and Jasmine.  
+Extensive experience with J2EE, Java, HTML and JavaScript to design and develop enterprise web applications.  Highly skilled in developing and building SPA and J2EE applications in Agile and TDD environments using tools like IntelliJ, Eclipse, NPM, Bower, Maven, Jenkins, JUnit, Mockito and Jasmine.  
 
 
