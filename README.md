@@ -20,7 +20,7 @@ Technical Skills
 
 * **Platforms**  Mac, Android, iOS, Chromecast, Windows 10/8/7/XP, Linux, iSeries (AS/400)
 * **Language**  Javascript, HTML, CSS, Java, JSP, SQL, SOAP and RESTful Web Services, C#, Visual Basic 6.0, RPG III and IV, ILE, CL
-* **Frameworks**  AngularJS, video.js, ionic, J2EE, JDBC, GWT/GXT, Vaadin, jQuery, EJB 3, JPA, JMS, Hibernate, Spring 3, Struts, Apache Axis, Wicket, Bootstrap, AspectJ, Apache Camel
+* **Frameworks**  Angular, video.js, ionic, J2EE, JDBC, GWT/GXT, Vaadin, jQuery, EJB 3, JPA, JMS, Hibernate, Spring 3, Struts, Apache Axis, Wicket, Bootstrap, AspectJ, Apache Camel
 * **Servers**	 JBoss, WebSphere, Tomcat, Jetty	
 * **RDBMS**  DB2, Oracle 11g, MySQL, MongoDB, SQLite, HSQLDB
 * **Tools**  IntelliJ, Eclipse, Node.js, Bower, Gulp, GIT, Subversion, Jenkins, SASS, PhantonJS, Karma, Jasmine, Docker, Mockito, Maven, Ant, Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
