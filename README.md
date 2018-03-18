@@ -5,22 +5,25 @@
 dherzog@ptd.net
 <br>
 [www.linkedin.com/in/davidjamesherzog/](http://www.linkedin.com/in/davidjamesherzog/)
+<br>
+[https://davidjamesherzog.github.io/](https://davidjamesherzog.github.io/)
 
 ***
 Profile
 ---------
-An accomplished Front End and Full Stack Software Engineer experienced in emerging technologies, Agile development and specializing in object-oriented design and analysis in the full software development life cycle including requirements definition, prototyping, proof of concept, design, interface implementation, testing and maintenance.  Excel in team collaboration and solution brainstorming.  Exceptionally strong sense of aesthetics and attention to detail.  Highly motivated in learning new technologies.
+
+An accomplished Software Engineer experienced in emerging technologies, Agile development and specializing in object-oriented design and analysis in the full software development life cycle including requirements definition, prototyping, proof of concept, design, interface implementation, testing and maintenance. Excel in team collaboration and solution brainstorming. Exceptionally strong sense of aesthetics and attention to detail. Highly motivated in learning new technologies.
 
 ***
 Technical Skills
 ---------
 
-* **Platforms**  Mac OS 10+, Windows 10/8/7, Redhat/Ubuntu Linux, Android, iSeries (AS/400)
-* **Language**  Java, Javascript, JSP, HTML5, CSS3, Ajax, SQL, SOAP and RESTful Web Services, C#, Visual Basic 6.0, RPG III and IV, ILE, CL
-* **Frameworks**  AngularJS, Ionic, Jasmine, Express.js, Bootstrap, J2EE, JDBC, JPA, Hibernate, Spring, Mockito, JMS, EJB 3, GWT/GXT, Vaadin, jQuery, Struts, Apache Axis, Wicket, AspectJ, Apache Camel
+* **Platforms**  Mac, Android, iOS, Chromecast, Windows 10/8/7/XP, Linux, iSeries (AS/400)
+* **Language**  Javascript, HTML, CSS, Java, JSP, SQL, SOAP and RESTful Web Services, C#, Visual Basic 6.0, RPG III and IV, ILE, CL
+* **Frameworks**  AngularJS, video.js, ionic, J2EE, JDBC, GWT/GXT, Vaadin, jQuery, EJB 3, JPA, JMS, Hibernate, Spring 3, Struts, Apache Axis, Wicket, Bootstrap, AspectJ, Apache Camel
 * **Servers**	 JBoss, WebSphere, Tomcat, Jetty	
 * **RDBMS**  DB2, Oracle 11g, MySQL, MongoDB, SQLite, HSQLDB
-* **Tools**  WebStorm, Visual Source Code, IntelliJ, Slack, Git, Github, Node.js, Bower, Gulp, Grunt, SASS, Eclipse, Ant, Maven, Subversion, Jenkins/Hudson, TravisCI Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
+* **Tools**  IntelliJ, Eclipse, Node.js, Bower, Gulp, GIT, Subversion, Jenkins, SASS, PhantonJS, Karma, Jasmine, Docker, Mockito, Maven, Ant, Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
 
 
 ***
@@ -30,17 +33,23 @@ Professional Experience
 ###  **DramaFever** (NYC, NY - Remote)
 #### **Lead Develeper, 2015-Present**
 
-- Worked on different applications using AngularJS (v1.5 using components)
+- Built different video streaming SPA applications using AngularJS (v1.5 using 	components) for
     - [dramafever.com](http://www.dramafever.com)
     - [boomerang.com](http://www.boomerang.com)
     - [moodica.com](http://www.moodica.com)
     - [shudder.com](http://www.shudder.com)
     - [warnerarchive.com](http://www.warnerarchive.com)
+- Built HTML5 video player using video.js to support video playback on web, OTT and mobile devices, support MPEG-DASH and HLS streaming playback, support FairPlay, Widevine and PlayReady DRM technologies
 - Built HTML5 video player using video.js
     - Supports video playback on web, OTT and mobile devices
     - Supports DASH and HLS streaming playback
     - Supports FairPlay, Widevine and PlayReady DRM technologies
     - Supports third party integrations like Freewheel, Comscore and Youbora
+- Built Chromecast video player for
+    - [dramafever.com](http://www.dramafever.com)
+    - [boomerang.com](http://www.boomerang.com)
+- Add VAST and VPAID.js ads support using FreeWheel SDK
+- Integrate with 3rd parties like Amazon, FreeWheel, Comscore and Youbora
 - Built reusable client library to interface with backend API
 - Use Karma, Jasmine and PhantomJS to write automated unit tests to attain 100% code coverage
 - Implement Gulp as main build tool and standardize build/development process across multiple projects
@@ -155,6 +164,6 @@ Education
 Technical Summary
 ---------
 
-Extensive experience with J2EE, Java, HTML and JavaScript to design and develop enterprise web applications.  Highly skilled in developing and building SPA and J2EE applications in Agile and TDD environments using tools like IntelliJ, Eclipse, NPM, Bower, Maven, Jenkins, JUnit, Mockito and Jasmine.  
+Extensive experience with JavaScript, HTML, CSS, J2EE, Java to design and develop enterprise web applications. Highly skilled in developing and building applications in Agile and TDD environments. 
 
 
