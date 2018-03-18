@@ -1,4 +1,4 @@
-##David Herzog
+## David Herzog
 
 **Full Stack and Front End Developer**
 <br>
