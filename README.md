@@ -30,7 +30,7 @@ Technical Skills
 Professional Experience
 ---------
 
-###  **DramaFever** (NYC, NY - Remote)
+###  **Warner Bros. Digital Labs** (NYC, NY - Remote)
 #### **Lead Develeper, 2015-Present**
 
 - Built different video streaming SPA applications using AngularJS (v1.5 using 	components) for
