@@ -19,11 +19,11 @@ Technical Skills
 ---------
 
 * **Platforms**  Mac, Android, iOS, Chromecast, Windows 10/8/7/XP, Linux, iSeries (AS/400)
-* **Language**  Javascript, HTML, CSS, Java, JSP, SQL, SOAP and RESTful Web Services, C#, Visual Basic 6.0, RPG III and IV, ILE, CL
-* **Frameworks**  Angular, video.js, ionic, J2EE, JDBC, GWT/GXT, Vaadin, jQuery, EJB 3, JPA, JMS, Hibernate, Spring 3, Struts, Apache Axis, Wicket, Bootstrap, AspectJ, Apache Camel
-* **Servers**	 JBoss, WebSphere, Tomcat, Jetty	
+* **Languages**  Javascript, HTML, CSS, Java, JSP, SQL, SOAP and RESTful Web Services, C#, Visual Basic 6.0, RPG III and IV, ILE, CL
+* **Frameworks**  Vue.js, Nuxt.js, Nest.js, Angular, video.js, ionic, J2EE, JDBC, GWT/GXT, Vaadin, jQuery, EJB 3, JPA, JMS, Hibernate, Spring 3, Struts, Apache Axis, Wicket, Bootstrap, AspectJ, Apache Camel
+* **Servers**	 JBoss, WebSphere, Tomcat, Jetty
 * **RDBMS**  DB2, Oracle 11g, MySQL, MongoDB, SQLite, HSQLDB
-* **Tools**  IntelliJ, Eclipse, Node.js, Bower, Gulp, GIT, Subversion, Jenkins, SASS, PhantonJS, Karma, Jasmine, Docker, Mockito, Maven, Ant, Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
+* **Tools**  IntelliJ, VSCode, Eclipse, Node.js, Webpack, Rollup, Gulp, GIT, Subversion, Jenkins, SASS, Jest, PhantomJS, Karma, Jasmine, Docker, Mockito, Maven, Ant, Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
 
 
 ***
@@ -33,22 +33,23 @@ Professional Experience
 ###  **Warner Bros. Digital Labs** (NYC, NY - Remote)
 #### **Lead Develeper, 2015-Present**
 
-- Built different video streaming SPA applications using AngularJS (v1.5 using 	components) for
-    - [dramafever.com](http://www.dramafever.com)
-    - [boomerang.com](http://www.boomerang.com)
-    - [moodica.com](http://www.moodica.com)
-    - [shudder.com](http://www.shudder.com)
-    - [warnerarchive.com](http://www.warnerarchive.com)
-- Built HTML5 video player using video.js to support video playback on web, OTT and mobile devices, support MPEG-DASH and HLS streaming playback, support FairPlay, Widevine and PlayReady DRM technologies
+- Built different video streaming SPA applications using AngularJS and Vue.js for
+    - [dcuniverse.com](https://www.dcuniverse.com)
+    - [dramafever.com](https://www.dramafever.com)
+    - [boomerang.com](https://www.boomerang.com)
+    - [moodica.com](https://www.moodica.com)
+    - [shudder.com](https://www.shudder.com)
+    - [warnerarchive.com](https://www.warnerarchive.com)
 - Built HTML5 video player using video.js
     - Supports video playback on web, OTT and mobile devices
     - Supports DASH and HLS streaming playback
     - Supports FairPlay, Widevine and PlayReady DRM technologies
-    - Supports third party integrations like Freewheel, Comscore and Youbora
+    - Supports third party integrations like Freewheel, Comscore, Youbora and Conviva
 - Built Chromecast video player for
+    - [dcuniverse.com](http://www.dcuniverse.com)
     - [dramafever.com](http://www.dramafever.com)
     - [boomerang.com](http://www.boomerang.com)
-- Add VAST and VPAID.js ads support using FreeWheel SDK
+- Add VAST and VPAID.js ads support using FreeWheel SDK and Google DFP
 - Integrate with 3rd parties like Amazon, FreeWheel, Comscore and Youbora
 - Built reusable client library to interface with backend API
 - Use Karma, Jasmine and PhantomJS to write automated unit tests to attain 100% code coverage
@@ -61,7 +62,7 @@ Professional Experience
 
 ###   **CardConnect** (King of Prussia, PA)
 ####  **Software Architect, 2013-2015**
-    
+
 - Architected and built Merchant Portal application for merchants using Spring and AngularJS.  The original application was written using Oracle APEX and PL/SQL.  The application had to be re-architected from the ground floor up to make it an enterprise strength application so that it could handle standard web traffic along with batch processing for recurring billing and emailing of daily reports.  Maven, Grunt and Bower were used to manage java and javascript dependencies, run java and javascript tests, compiling of SASS files to CSS and minifying and obfuscating javascript and CSS.
 - Architected and built SFTP application for merchants to tokenize credit cards and process credit card transactions using Spring and Apache Camel to route the data properly.
 - Architected and built hosted payment page application for merchants to offload credit card processing responsibilities.
@@ -82,12 +83,12 @@ Professional Experience
 ###  **hibu (Yellowbook)** (King of Prussia, PA)
 #### **Lead Developer, 2008-2013**
 
-- Assisting in creating next generation sales force automation application for tablets/laptops using Wicket and Bootstrap frameworks 
-- Integrating Advertiser portal with J.P. Morgan Chase's payment site using SOAP based web services and WS-Security 
+- Assisting in creating next generation sales force automation application for tablets/laptops using Wicket and Bootstrap frameworks
+- Integrating Advertiser portal with J.P. Morgan Chase's payment site using SOAP based web services and WS-Security
 - Creating application for sales force to drive metrics into power point presentations to boost sales.  Using Windows front end to interface with RESTful services using Spring, JPA and Maven.  Following TDD methodologies to produce 95% code coverage using a mix of unit and integration tests with in-memory HSQLDB database.
-- Investigate and migrate sales force presentation application from JBoss EAP 4.3.0 to EAP 6.0 
-- Create temple using Spring framework using common coding standards, unit and integrations tests with code coverage and aspectJ for others in the company to follow and use 
-- Investigate Wicket framework and create prototype with jQuery Mobile framework to make sure Wicket works well with mobile technologies 
+- Investigate and migrate sales force presentation application from JBoss EAP 4.3.0 to EAP 6.0
+- Create temple using Spring framework using common coding standards, unit and integrations tests with code coverage and aspectJ for others in the company to follow and use
+- Investigate Wicket framework and create prototype with jQuery Mobile framework to make sure Wicket works well with mobile technologies
 - Assisted in designing and developing software for Yellowbook’s advertisers to work with products and services through Yellowbook
 - Design and develop web pages using J2EE, Maven, GWT/GXT, EJB 3 and JBoss
 - Design and develop in an Agile and TDD environment
@@ -130,8 +131,8 @@ Professional Experience
 - Create prototype customer order system for Pocket PC’s using .Net
 - RPG IV, ILE, CL, Java, JSP, HTML, .Net and SQL development.
 - Code/400, WebSphere Development Studio Client 5.0
-- Research Code/400 and WebSphere – teach fellow  programmers
-- Help convert web application from WebSphere 3.5 to 5.0 for J2EE  specifications
+- Research Code/400 and WebSphere – teach fellow programmers
+- Help convert web application from WebSphere 3.5 to 5.0 for J2EE specifications
 - Extensive sub file development.
 - Investigate and correct software defects.
 - Test all changes for conformance.
@@ -157,13 +158,37 @@ Professional Experience
 Education
 ---------
 
-### **B.S., Mathematics**  
+### **B.S., Mathematics**
   Moravian College, Bethlehem, 1998 Minor: Economics
+
+***
+Projects
+---------
+### **videojs-shaka**
+Feb 2019 – Present
+
+A library that takes Google's shaka player and allows you to play DASH streaming videos inside of a video.js video player. The library does all the communication between video.js and shaka player.
+
+[https://github.com/davidjamesherzog/videojs-shaka](https://github.com/davidjamesherzog/videojs-shaka)
+
+### **chromecast-overlay**
+Dec 2018 – Present
+
+A library that allows you to create HTML elements and register them with chromecast player events or time based intervals. You can specify when you want to show some HTML based on a player event and when you want to hide the HTML. You can also show HTML based on a time interval like a skip intro or recap button that you would see in any popular streaming service.
+
+[https://github.com/davidjamesherzog/chromecast-overlay](https://github.com/davidjamesherzog/chromecast-overlay)
+
+### **video-overlay**
+Dec 2018 – Present
+
+A library that allows you to create HTML elements and register them with html5 video player events or time based intervals. You can specify when you want to show some HTML based on a player event and when you want to hide the HTML. You can also show HTML based on a time interval like a skip intro or recap button that you would see in any popular streaming service.
+
+[https://github.com/davidjamesherzog/video-overlay](https://github.com/davidjamesherzog/video-overlay)
 
 ***
 Technical Summary
 ---------
 
-Extensive experience with JavaScript, HTML, CSS, J2EE, Java to design and develop enterprise web applications. Highly skilled in developing and building applications in Agile and TDD environments. 
+Extensive experience with Node.js, JavaScript, HTML, CSS, J2EE, Java to design and develop enterprise web applications. Highly skilled in developing and building applications in Agile and TDD environments.
 
 
