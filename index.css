@@ -24,6 +24,7 @@
     "work"
     "education"
     "community"
+    "hobbies"
     "summary";
   row-gap: 0.5em;
   column-gap: 32px;
@@ -183,6 +184,7 @@ p {
       "work work"
       "education education"
       "community community"
+      "hobbies hobbies"
       "summary summary";
     box-shadow: 0 5px 9px 0 rgba(0, 0, 0, 0.15);
   }
@@ -204,13 +206,14 @@ p {
   .resume {
     width: 80%;
     grid-template-columns: 0.75fr 0.75fr 1fr;
-    grid-template-rows: 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr 1fr;
+    grid-template-rows: 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr 0.25fr 1fr;
     grid-template-areas:
       "name name image"
       "work work about"
       "work work skills"
-      "work work community"
       "work work education"
+      "work work community"
+      "work work hobbies"
       "work work summary";
   }
 

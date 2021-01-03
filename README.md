@@ -23,7 +23,7 @@ Technical Skills
 * **Frameworks**  Vue.js, Nuxt.js, Nest.js, Angular, video.js, ionic, J2EE, JDBC, GWT/GXT, Vaadin, jQuery, EJB 3, JPA, JMS, Hibernate, Spring 3, Struts, Apache Axis, Wicket, Bootstrap, AspectJ, Apache Camel
 * **Servers**	 JBoss, WebSphere, Tomcat, Jetty
 * **RDBMS**  DB2, Oracle 11g, MySQL, MongoDB, SQLite, HSQLDB
-* **Tools**  IntelliJ, VSCode, Eclipse, Node.js, Webpack, Rollup, Gulp, GIT, Subversion, Jenkins, SASS, Jest, PhantomJS, Karma, Jasmine, Docker, Mockito, Maven, Ant, Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase, Rational ClearQuest
+* **Tools**  IntelliJ, VSCode, Eclipse, Node.js, Webpack, Rollup, Gulp, GIT, Subversion, Jenkins, SASS, Jest, Cypress, PhantomJS, Karma, Jasmine, Docker, Mockito, Maven, Ant, Artifactory, soap UI, JRebel, Confluence Wiki, JIRA, TRAC, Microsoft Office, Microsoft Visio, HP Quality Center, Rational ClearCase
 
 
 ***
@@ -159,7 +159,7 @@ Education
 ---------
 
 ### **B.S., Mathematics**
-  Moravian College, Bethlehem, 1998 Minor: Economics
+  Moravian College, Bethlehem, 1998 Minor: Economics, Varsity Football 1994-1996
 
 ***
 Projects
@@ -184,6 +184,12 @@ Dec 2018 – Present
 A library that allows you to create HTML elements and register them with html5 video player events or time based intervals. You can specify when you want to show some HTML based on a player event and when you want to hide the HTML. You can also show HTML based on a time interval like a skip intro or recap button that you would see in any popular streaming service.
 
 [https://github.com/davidjamesherzog/video-overlay](https://github.com/davidjamesherzog/video-overlay)
+
+***
+Interests
+---------
+
+Music, guitar, working out, anything that involves my hands and learning anything about computers
 
 ***
 Technical Summary
