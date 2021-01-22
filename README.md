@@ -85,9 +85,9 @@ Professional Experience
 
 - Assisting in creating next generation sales force automation application for tablets/laptops using Wicket and Bootstrap frameworks
 - Integrating Advertiser portal with J.P. Morgan Chase's payment site using SOAP based web services and WS-Security
-- Creating application for sales force to drive metrics into power point presentations to boost sales.  Using Windows front end to interface with RESTful services using Spring, JPA and Maven.  Following TDD methodologies to produce 95% code coverage using a mix of unit and integration tests with in-memory HSQLDB database.
+- Created an application for the sales force team to drive metrics into powerpoint presentations to boost sales.  Using Windows front end to interface with RESTful services using Spring, JPA and Maven.  Following TDD methodologies to produce 95% code coverage using a mix of unit and integration tests with in-memory HSQLDB database.
 - Investigate and migrate sales force presentation application from JBoss EAP 4.3.0 to EAP 6.0
-- Create temple using Spring framework using common coding standards, unit and integrations tests with code coverage and aspectJ for others in the company to follow and use
+- Created template using Spring framework with common coding standards, unit and integrations tests with code coverage and aspectJ for others in the company to follow and use
 - Investigate Wicket framework and create prototype with jQuery Mobile framework to make sure Wicket works well with mobile technologies
 - Assisted in designing and developing software for Yellowbook’s advertisers to work with products and services through Yellowbook
 - Design and develop web pages using J2EE, Maven, GWT/GXT, EJB 3 and JBoss
